@@ -2,7 +2,12 @@
   "sidebar": [
     {
       "section": "Hello world",
-      "topics": ""
+      "topics": [
+        {
+          "title": "",
+          "slug": "hello-world"
+        }
+      ]
     },
     {
       "section": "Introduction",
