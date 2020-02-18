@@ -1,6 +1,6 @@
 ---
 title: Hello world
-date: 
+date: 2020-01-27
 slug: HELLO-WORLD
 
 ---
