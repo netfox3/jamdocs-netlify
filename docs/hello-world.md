@@ -1,7 +1,7 @@
 ---
 title: Hello world
 date: 2020-01-27
-slug: HELLO-WORLD
+slug: hello-world
 
 ---
 Hey there,
