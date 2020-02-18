@@ -1,6 +1,10 @@
 {
   "sidebar": [
     {
+      "section": "Hello world",
+      "topics": ""
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
