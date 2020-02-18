@@ -1,7 +1,7 @@
 ---
 title: Hello world
 date: 
-slug: ''
+slug: HELLO-WORLD
 
 ---
 Hey there,
